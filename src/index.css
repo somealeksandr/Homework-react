@@ -1,4 +1,13 @@
 body{
-  background: #b0881a;
+  background: #373835;
   color:#c7c2b3;
+}
+h2{
+  color: #6e6b62;
+}
+strong{
+  color: #26231a;
+}
+a{
+  color: #c7c2b3; 
 }
