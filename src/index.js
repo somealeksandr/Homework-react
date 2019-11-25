@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { Fragment } from 'react';
 import './index.css';
 
-const App = () =>{
+const Resume = () =>{
     return(
         <Fragment>
             <div className="d-flex flex-column justify-content-center align-items-center mt-5">
@@ -33,5 +33,5 @@ const App = () =>{
     );
 }
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Resume />, document.getElementById('root'));
 
